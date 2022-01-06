@@ -8,4 +8,4 @@ Understand three Chicago datasets
 Load the three datasets into three tables in a Db2 database
 Execute SQL queries to answer given questions
 
-Attached is a Python Notebook file for this task.
+Attached is a Python Notebook file for this task
